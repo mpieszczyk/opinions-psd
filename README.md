@@ -1,2 +1,2 @@
 # opinions-psd
-komputronik.pl
+<cove>https://mpieszczyk.github.io/opinions-psd/</code>
